@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.0.132/MobileTerminal.ipa</string>
+					<string>https://github.com/mys100001/baiduuo/blob/master/MobileTerminal.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.0.132/udk.png</string>
+					<string>https://github.com/mys100001/baiduuo/blob/master/udk.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.0.132/udk.png</string>
+					<string>https://github.com/mys100001/baiduuo/blob/master/udk.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
